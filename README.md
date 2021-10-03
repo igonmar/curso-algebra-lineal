@@ -6,7 +6,7 @@
 
 #### Puedes ver todo el material del curso en [nuestra página de Github](https://joanby.github.io/curso-algebra-lineal/index.html)
 
-### ¿Qué vas a aprender?
+### ¿Qué vas a aprender?.
 
 Conoce toda el álgebra lineal de la mano de Juan Gabriel Gomila y María Santos. Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
 
